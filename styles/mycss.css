@@ -1,0 +1,31 @@
+.my-list{
+    padding: 10px;
+}
+.my-list-item{
+    padding: 5px;
+}
+@media (min-width: 1200px) {
+    .container{
+        max-width: 800px;
+    }
+}
+
+.skill{
+    position: absolute;
+    left: 700px;
+}
+
+.div-margin{
+    margin-left: -15px;
+    margin-bottom:-25px;
+}
+
+.div-row{
+    margin-bottom:-20px;
+}
+.div-last{
+    margin-bottom: 30px;
+}
+li{
+    font-size: 120%;
+}
