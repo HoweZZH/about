@@ -1,0 +1,25 @@
+{
+  "name": "my CV",
+  "homepage": "\"\"",
+  "authors": [
+    "HoweZZH <zhaozihao7199@gmail.com>"
+  ],
+  "description": "my CV",
+  "main": "index.html",
+  "keywords": [
+    "MY CV",
+    "ZHAO ZIHAO"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3"
+  }
+}
