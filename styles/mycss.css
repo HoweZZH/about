@@ -1,8 +1,20 @@
+ol, ul {
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+.h3, h1, h2, h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+small{
+    color:gray;
+}
 .my-list{
     padding: 10px;
 }
 .my-list-item{
     padding: 5px;
+    margin: 0px;
 }
 @media (min-width: 1200px) {
     .container{
@@ -19,12 +31,21 @@
     margin-left: -15px;
     margin-bottom:-15px;
 }
-
+.div-row-first h3{
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 .div-row{
-    margin-bottom:-20px;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+.div-row h3{
+    border-bottom: 2px solid black;
+    margin-top:4px;
 }
 .div-row-one{
-    margin-top: -30px;
+    margin-top: 0px;
 }
 .div-last{
     margin-bottom: 10px;
