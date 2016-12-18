@@ -12,7 +12,11 @@
 </head>
 
 <body>
+<<<<<<< HEAD
+    <div id="fix" class="container">
+=======
     <div id="haha get work done"  class="container">
+>>>>>>> issue53
         <div class="row div-row-first">
             <div class="col-xs-6" style="margin-left: -15px;">
                 <h2>ZIHAO ZHAO </h2>
@@ -73,13 +77,6 @@
                 <li class="">Build an email website based on Google Gmail API.</li>
                 <li class="">Elegant GUI for managing email on a page with full functionality.</li>
                 <li>Process Stevens Announcement under the background to highlight the events with the expired offer.</li>
-            </ul>
-            <h4 style="padding:0px;">NodeJS Project <small class="pull-right"> 2016 Fall </small></h4>
-            <ul class="" style="list-style-type:disc">
-                <li class="">Built a NodeJS server with express framwork and handlebar as the front-end template engine.</li>
-                <li class="">Designed and implemented a travelling website serving as an information platform
-                for people who are interested in travel. </li>
-                <li>Used passport middleware to implement authentication layer in server-side</li>
             </ul>
         </div>
     </div>
